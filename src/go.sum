@@ -1,0 +1,6 @@
+github.com/devlights/helloworldgo v0.0.0-20191002081345-b5094b068f3b h1:b+5mPFlRG+sksbIvQZF/CGJl9QiU3jH0fNv4DbJOv2M=
+github.com/devlights/helloworldgo v0.0.0-20191002081345-b5094b068f3b/go.mod h1:F8xYq/TgzY/OwJQD2PTunvITnPjD8lNuoMVIFPM/SLA=
+github.com/msk-1/go-get-common v0.0.0-20211117153750-bb4e5c0cf3ce h1:47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=
+github.com/msk-1/go-get-common v0.0.0-20211117153750-bb4e5c0cf3ce/go.mod h1:Rerwp2ByM+NsPjxw7h+z/76ijVfUgcTNhuOMXZ+2qdQ=
+github.com/msk-1/go-get-common v0.0.0-20211117155238-36fba87828f9 h1:Vf0EDtWJhLqDwfamtjrrkvrx4Yc9F4lQ7KZ6DplY4iI=
+github.com/msk-1/go-get-common v0.0.0-20211117155238-36fba87828f9/go.mod h1:Cw25v5MhXtg1BTPlnAtMyiWAt6H18V8viykymHgj1p0=
